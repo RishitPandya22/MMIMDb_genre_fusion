@@ -6,7 +6,6 @@ Multi-label genre classification (23 genres) from movie posters and plot summari
 
 | file | purpose |
 |---|---|
-| `MMIMDb_initial_analysis.ipynb` | Initial dataset analysis used for the proposal (quality checks, GPU feasibility) |
 | `MMIMDb_genre_fusion.ipynb` | Final solution: preprocessing, feature extraction, all models, evaluation, failure cases and bias analysis |
 | `requirements.txt` | Python packages |
 | `results/` | Tables (CSV) and figures (PNG) produced by the final notebook |
