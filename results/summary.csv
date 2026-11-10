@@ -1,0 +1,12 @@
+,value
+Final dataset (train / dev / test),15549 / 2606 / 7790
+Duplicated plots removed,14
+"Feature extraction time (EfficientNet + BERT, min)",5.7
+Device,Tesla T4
+Late fusion image weight w,0.3
+Best model (selected on validation macro F1),GMU
+Best model test micro F1,0.658
+Best model test macro F1,0.603
+Best model test weighted F1,0.661
+Macro F1 gain over best single modality,0.009
+Mean GMU gate (share of poster),0.493

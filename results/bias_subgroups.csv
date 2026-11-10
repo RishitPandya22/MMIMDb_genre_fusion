@@ -1,0 +1,7 @@
+attribute,group,test movies,micro F1,samples F1
+Country,USA,4398,0.6626,0.6556
+Country,Non-USA,3392,0.6514,0.6467
+Language,Non-English,2048,0.6451,0.6458
+Language,English,5742,0.6619,0.6539
+Release,Before 1990,2965,0.6427,0.6374
+Release,1990 or later,4825,0.6675,0.6606

@@ -1,0 +1,6 @@
+,parameters,training time (s),"inference (ms per 1,000 movies)",test macro F1
+Image only,667671.0,3.064,2.613,0.346
+Text only,405527.0,2.88,2.35,0.594
+Early fusion,1060887.0,2.501,2.676,0.605
+Late fusion,1073198.0,5.944,4.963,0.609
+GMU,2110487.0,3.533,3.387,0.603

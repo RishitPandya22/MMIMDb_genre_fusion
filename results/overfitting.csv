@@ -1,0 +1,6 @@
+,train macro F1,test macro F1,gap (train - test)
+Image only,0.4684,0.3459,0.1225
+Text only,0.6511,0.5942,0.0569
+Early fusion,0.7289,0.6054,0.1235
+Late fusion,0.6872,0.609,0.0782
+GMU,0.8025,0.6034,0.1991
